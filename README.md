@@ -1,4 +1,4 @@
-# Vue-Student_Final_Mark_List
+# Student_grade_report_Vue
 
 ## Project setup
 ```
